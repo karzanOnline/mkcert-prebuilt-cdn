@@ -1,5 +1,5 @@
 {
-	"name": "mkcert-prebuilt",
+	"name": "mkcert-prebuilt-cdn",
 	"version": "1.0.0",
 	"description": "An installer for mkcert prebuilt binary",
 	"author": "自羽",
